@@ -5,7 +5,7 @@ import (
 
 	"log"
 
-	"github.com/azenakhi/go-learn/restapi/routers"
+	"github.com/azenakhi/go-apidesign/api/routers"
 )
 
 func Run() {

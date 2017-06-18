@@ -7,7 +7,7 @@ import (
 
 	"fmt"
 
-	"github.com/azenakhi/go-learn/restapi/services"
+	"github.com/azenakhi/go-apidesign/api/services"
 )
 
 type UserController struct{}

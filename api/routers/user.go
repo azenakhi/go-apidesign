@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/azenakhi/go-learn/restapi/controllers"
+	"github.com/azenakhi/go-apidesign/api/controllers"
 	"github.com/gorilla/mux"
 )
 
