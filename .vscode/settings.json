@@ -1,0 +1,7 @@
+{
+    "typescript.check.tscVersion": false,
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "go.gopath": "/Users/azenakhi/gocode"
+}
