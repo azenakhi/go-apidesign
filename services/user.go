@@ -1,7 +1,7 @@
 package services
 
 import (
-	"github.com/azenakhi/go-apidesign/api/models"
+	"github.com/azenakhi/go-apidesign/models"
 )
 
 type UserService struct {

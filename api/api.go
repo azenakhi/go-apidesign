@@ -5,7 +5,7 @@ import (
 
 	"log"
 
-	"github.com/azenakhi/go-apidesign/api/routers"
+	"github.com/azenakhi/go-apidesign/routers"
 )
 
 func Run() {
