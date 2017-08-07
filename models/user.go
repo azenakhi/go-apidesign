@@ -17,8 +17,7 @@ func NewUserModel() *UserModel {
 
 func (this UserModel) GetUsers() []User {
 	users := []User{
-		User{FirstName: "Ahmed", LastName: "ZENAKHI"},
-		User{FirstName: "Zahia", LastName: "CHALA"},
+		User{FirstName: "Ahmed", LastName: "ZENAKHI"}
 	}
 	return users
 }
